@@ -1,0 +1,8 @@
+﻿pdfplumber
+tqdm
+langchain-text-splitters
+chromadb
+rank_bm25
+sentence-transformers
+openai
+streamlit
