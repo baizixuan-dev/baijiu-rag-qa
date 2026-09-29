@@ -5,12 +5,10 @@
 
 ### 成功案例
 
-![成功案例](screenshot_success.png)
-
+![案例1](screenshot_1.png)
 ### 翻车案例
 
-![翻车案例](screenshot_fail.png)
-
+![案例2](screenshot_2.png)
 ## 功能
 
 - PDF 财报全文解析（文本 + 表格 Markdown 化）
